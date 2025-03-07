@@ -1,0 +1,41 @@
+{
+  "project" : "demo - etl_db2_git",
+  "projectId" : "984a300f-495c-4186-99f2-37abc8c0d586",
+  "created_by" : "cpadmin",
+  "created_at" : "2025-03-07T11:41:53.076388676Z",
+  "environment" : "cp4d",
+  "services_info" : [ {
+    "name" : "ds-canvas",
+    "version" : "510.0.59"
+  }, {
+    "name" : "ds-flows",
+    "version" : "510.0.27"
+  }, {
+    "name" : "ds-codegen",
+    "version" : "510.0.27"
+  }, {
+    "name" : "ds-flow-runtime",
+    "version" : "510.0.7"
+  }, {
+    "name" : "ds-migration",
+    "version" : "510.0.30"
+  }, {
+    "name" : "DSAssets",
+    "version" : "510.0.5"
+  }, {
+    "name" : "ds-cas-lite",
+    "version" : "510.0.3"
+  }, {
+    "name" : "ds-px-runtime",
+    "version" : "510.0.22"
+  }, {
+    "name" : "qs-ruleset",
+    "version" : "510.0.5"
+  } ],
+  "assets" : [ {
+    "name" : "jb - erminf_full_refresh.",
+    "type" : "data_intg_flow",
+    "location" : ""
+  } ],
+  "flow_job_mapping" : [ ]
+}
